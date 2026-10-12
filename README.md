@@ -21,8 +21,8 @@ We wrote all the structures ourselves. The stack, queue, array and linked list u
   - set up the repository and reviewed the pull requests
 
 **Member 2**
-- Name: 
-- Student ID: 
+- Name: HF.sawra
+- Student ID: 23da2-0605
 - Responsibility: Array and Searching
 - Contribution:
   - wrote `MyArray` (insert at position, delete, sort, display)

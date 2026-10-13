@@ -31,8 +31,8 @@ We wrote all the structures ourselves. The stack, queue, array and linked list u
   - tested binary search on an unsorted and an empty array
 
 **Member 3**
-- Name: 
-- Student ID: 
+- Name: M.N. Nishath Begam
+- Student ID: 23da2-0764
 - Responsibility: Stack and Queue
 - Contribution:
   - wrote `MyStack` and `MyQueue` (the queue is circular)

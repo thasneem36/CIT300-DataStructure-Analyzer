@@ -9,8 +9,8 @@ We wrote all the structures ourselves. The stack, queue, array and linked list u
 ## Group members
 
 **Member 1 (group leader)**
-- Name: 
-- Student ID: 
+- Name: HMM. Thasneem
+- Student ID: 23DA2-0473
 - Responsibility: Graph, performance comparison and integration
 - Contribution:
   - wrote `Graph` with add vertex, add edge, display, BFS and DFS
@@ -41,8 +41,8 @@ We wrote all the structures ourselves. The stack, queue, array and linked list u
   - tested growing past the starting size and wrap-around in the queue
 
 **Member 4**
-- Name: 
-- Student ID: 
+- Name: A. Maryam Amani
+- Student ID: 23DA2-0857
 - Responsibility: Linked List
 - Contribution:
   - wrote `MyLinkedList` (insert head/tail, delete by value, search, display)
